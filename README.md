@@ -23,7 +23,6 @@ Created by **hanheita38**
 - アプリ内で表示されるデータは投資助言を目的としたものではありません。
 - 開発者(hanheita38)は、本アプリの使用によって生じたいかなる損失についても責任を負いません。
 - 利用規約や著作権に関するお問い合わせは、リポジトリのIssueまでお願いいたします。
-- 
 
 ## Overview
 This app is a non-profit **educational trading simulator** for learning about stock investing.
